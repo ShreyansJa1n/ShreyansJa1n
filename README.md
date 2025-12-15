@@ -18,6 +18,7 @@
 ---
 
 ## 👋 About Me
+📱 **iOS Software Engineer at Lose It!** building features for 50M+ users and learning what it takes to build health tech that changes lives at scale.
 
 🔭 **Software Development Engineer** passionate about building robust, scalable systems across the full stack – from enterprise backend services to delightful iOS experiences.
 
