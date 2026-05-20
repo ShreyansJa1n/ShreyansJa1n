@@ -62,6 +62,8 @@
 ---
 
 ### 🌟 Featured Projects
+- 💡 **[NLQ](https://github.com/ShreyansJa1n/NLQ)**  
+  Ask your database anything in plain English and get an answer. No SQL, no query builders, no mental overhead.
 
 - 💡 **[ShapeTracer](https://github.com/ShreyansJa1n/ShapeTracer)**  
   Multimodal iOS app with real-time haptic feedback.
