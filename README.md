@@ -86,14 +86,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyansJa1n&hide_border=true&background=00000000&ring=6B7B3F&fire=6B7B3F&currStreakLabel=6B7B3F" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌟 Featured Projects
 
 - 💡 **[NLQ](https://github.com/ShreyansJa1n/NLQ)**
