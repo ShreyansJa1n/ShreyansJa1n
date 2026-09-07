@@ -40,6 +40,7 @@
 ### 🛠️ Ownership in action
 
 - **Northeastern Recreation ecosystem**: pitched and built an ID-scanning entry platform, then grew it into an ecosystem with a lost-and-found system (nulostfound), replacing a manual patchwork of Connect2 and Google Sheets. Cut associated costs roughly 95%, keeps patron data in-house, and now runs across 3+ facilities, serving 7,500+ patrons a day.
+- **Deal Center at Lose It!**: built the Deal Center feature end-to-end in Swift, SwiftUI, and Combine across paywall and pricing experiment flows, generating $100K+ in revenue within 10 days.
 - **Lose It! release-notes automation**: went beyond my co-op scope to build Claude Code skills and internal tooling that auto-generate release notes for internal and external use, accelerating release documentation turnaround 60% and earning praise across the org.
 - **Head TA promotion**: promoted to Head TA for Theory of Computation across two consecutive semesters, mentoring fellow TAs through their own work, not just handing down answers.
 
