@@ -89,16 +89,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyansJa1n&show_icons=true&hide_border=true&title_color=6B7B3F&icon_color=6B7B3F&text_color=333333&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyansJa1n&layout=compact&hide_border=true&title_color=6B7B3F&text_color=333333&bg_color=00000000" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyansJa1n&hide_border=true&background=00000000&ring=6B7B3F&fire=6B7B3F&currStreakLabel=6B7B3F" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShreyansJa1n&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </p>
 
 ---
